@@ -1,0 +1,402 @@
+[
+    {
+        "title":"thisIsNotHappening",
+        "perkColor":"purple",
+        "path": "iconPerks_thisIsNotHappening"
+    },
+    {
+        "title":"darkSense",
+        "perkColor":"purple",
+        "path": "iconPerks_darkSense"
+    },
+    {
+        "title":"dejaVu",
+        "perkColor":"purple",
+        "path": "iconPerks_dejaVu"
+    },
+    {
+        "title":"slipperyMeat",
+        "perkColor":"purple",
+        "path": "iconPerks_slipperyMeat"
+    },
+    {
+        "title":"hope",
+        "perkColor":"purple",
+        "path": "iconPerks_hope"
+    },
+    {
+        "title":"spineChill",
+        "perkColor":"purple",
+        "path": "iconPerks_spineChill"
+    },
+    {
+        "title":"lightweight",
+        "perkColor":"purple",
+        "path": "iconPerks_lightweight"
+    },
+    {
+        "title":"smallGame",
+        "perkColor":"purple",
+        "path": "iconPerks_smallGame"
+    },
+    {
+        "title":"noOneLeftBehind",
+        "perkColor":"purple",
+        "path": "iconPerks_noOneLeftBehind"
+    },
+    {
+        "title":"plunderersInstinct",
+        "perkColor":"purple",
+        "path": "iconPerks_plunderersInstinct"
+    },
+    {
+        "title":"kindred",
+        "perkColor":"purple",
+        "path": "iconPerks_kindred"
+    },
+    {
+        "title":"premonition",
+        "perkColor":"purple",
+        "path": "iconPerks_premonition"
+    },
+    {
+        "title":"resilience",
+        "perkColor":"purple",
+        "path": "iconPerks_resilience"
+    },
+    {
+        "title":"wellMakeIt",
+        "perkColor":"purple",
+        "path": "iconPerks_wellMakeIt"
+    },
+    {
+        "title":"diversion",
+        "perkColor":"purple",
+        "path": "iconPerks_diversion"
+    },
+    {
+        "title":"adrenaline",
+        "perkColor":"purple",
+        "path": "iconPerks_adrenaline"
+    },
+    {
+        "title":"leader",
+        "perkColor":"purple",
+        "path": "iconPerks_leader"
+    },
+    {
+        "title":"buckleUp",
+        "perkColor":"purple",
+        "path": "iconPerks_buckleUp"
+    },
+    {
+        "title":"pharmacy",
+        "perkColor":"purple",
+        "path": "iconPerks_pharmacy"
+    },
+    {
+        "title":"aceInTheHole",
+        "perkColor":"purple",
+        "path": "iconPerks_aceInTheHole"
+    },
+    {
+        "title":"secondWind",
+        "perkColor":"purple",
+        "path": "iconPerks_secondWind"
+    },
+    {
+        "title":"wakeUp",
+        "perkColor":"purple",
+        "path": "iconPerks_wakeUp"
+    },
+    {
+        "title":"breakout",
+        "perkColor":"purple",
+        "path": "iconPerks_breakout"
+    },
+    {
+        "title":"balancedLanding",
+        "perkColor":"purple",
+        "path": "iconPerks_balancedLanding"
+    },
+    {
+        "title":"autodidact",
+        "perkColor":"purple",
+        "path": "iconPerks_autodidact"
+    },
+    {
+        "title":"babySitter",
+        "perkColor":"purple",
+        "path": "iconPerks_babySitter"
+    },
+    {
+        "title":"deliverance",
+        "perkColor":"purple",
+        "path": "iconPerks_deliverance"
+    },
+    {
+        "title":"tenacity",
+        "perkColor":"purple",
+        "path": "iconPerks_tenacity"
+    },
+    {
+        "title":"betterTogether",
+        "perkColor":"purple",
+        "path": "iconPerks_betterTogether"
+    },
+    {
+        "title":"proveThyself",
+        "perkColor":"purple",
+        "path": "iconPerks_proveThyself"
+    },
+    {
+        "title":"bond",
+        "perkColor":"purple",
+        "path": "iconPerks_bond"
+    },
+    {
+        "title":"botanyKnowledge",
+        "perkColor":"purple",
+        "path": "iconPerks_botanyKnowledge"
+    },
+    {
+        "title":"mettleOfMan",
+        "perkColor":"purple",
+        "path": "iconPerks_mettleOfMan"
+    },
+    {
+        "title":"empathy",
+        "perkColor":"purple",
+        "path": "iconPerks_empathy"
+    },
+    {
+        "title":"ironWill",
+        "perkColor":"purple",
+        "path": "iconPerks_ironWill"
+    },
+    {
+        "title":"soleSurvivor",
+        "perkColor":"purple",
+        "path": "iconPerks_soleSurvivor"
+    },
+    {
+        "title":"decisiveStrike",
+        "perkColor":"purple",
+        "path": "iconPerks_decisiveStrike"
+    },
+    {
+        "title":"upTheAnte",
+        "perkColor":"purple",
+        "path": "iconPerks_upTheAnte"
+    },
+    {
+        "title":"fixated",
+        "perkColor":"purple",
+        "path": "iconPerks_fixated"
+    },
+    {
+        "title":"lithe",
+        "perkColor":"purple",
+        "path": "iconPerks_lithe"
+    },
+    {
+        "title":"flipFlop",
+        "perkColor":"purple",
+        "path": "iconPerks_flipFlop"
+    },
+    {
+        "title":"headOn",
+        "perkColor":"purple",
+        "path": "iconPerks_headOn"
+    },
+    {
+        "title":"windowsOfOpportunity",
+        "perkColor":"purple",
+        "path": "iconPerks_windowsOfOpportunity"
+    },
+    {
+        "title":"borrowedTime",
+        "perkColor":"purple",
+        "path": "iconPerks_borrowedTime"
+    },
+    {
+        "title":"luckyBreak",
+        "perkColor":"purple",
+        "path": "iconPerks_luckyBreak"
+    },
+    {
+        "title":"streetwise",
+        "perkColor":"purple",
+        "path": "iconPerks_streetwise"
+    },
+    {
+        "title":"deadHard",
+        "perkColor":"purple",
+        "path": "iconPerks_DeadHard"
+    },
+    {
+        "title":"innerStrength",
+        "perkColor":"purple",
+        "path": "iconPerks_innerStrength"
+    },
+    {
+        "title":"camaraderie",
+        "perkColor":"purple",
+        "path": "iconPerks_camaraderie"
+    },
+    {
+        "title":"noMither",
+        "perkColor":"purple",
+        "path": "iconPerks_NoMither"
+    },
+    {
+        "title":"anyMeansNecessary",
+        "perkColor":"purple",
+        "path": "iconPerks_anyMeansNecessary"
+    },
+    {
+        "title":"openHanded",
+        "perkColor":"purple",
+        "path": "iconPerks_openHanded"
+    },
+    {
+        "title":"aftercare",
+        "perkColor":"purple",
+        "path": "iconPerks_aftercare"
+    },
+    {
+        "title":"vigil",
+        "perkColor":"purple",
+        "path": "iconPerks_vigil"
+    },
+    {
+        "title":"objectOfObsession",
+        "perkColor":"purple",
+        "path": "iconPerks_objectOfObsession"
+    },
+    {
+        "title":"stakeOut",
+        "perkColor":"purple",
+        "path": "iconPerks_stakeOut"
+    },
+    {
+        "title":"saboteur",
+        "perkColor":"purple",
+        "path": "iconPerks_saboteur"
+    },
+    {
+        "title":"quickAndQuiet",
+        "perkColor":"purple",
+        "path": "iconPerks_quickAndQuiet"
+    },
+    {
+        "title":"calmSpirit",
+        "perkColor":"purple",
+        "path": "iconPerks_calmSpirit"
+    },
+    {
+        "title":"selfCare",
+        "perkColor":"purple",
+        "path": "iconPerks_selfCare"
+    },
+    {
+        "title":"poised",
+        "perkColor":"purple",
+        "path": "iconPerks_poised"
+    },
+    {
+        "title":"solidarity",
+        "perkColor":"purple",
+        "path": "iconPerks_solidarity"
+    },
+    {
+        "title":"sprintBurst",
+        "perkColor":"purple",
+        "path": "iconPerks_sprintBurst"
+    },
+    {
+        "title":"urbanEvasion",
+        "perkColor":"purple",
+        "path": "iconPerks_urbanEvasion"
+    },
+    {
+        "title":"danceWithMe",
+        "perkColor":"purple",
+        "path": "iconPerks_danceWithMe"
+    },
+    {
+        "title":"detectivesHunch",
+        "perkColor":"purple",
+        "path": "iconPerks_detectivesHunch"
+    },
+    {
+        "title":"technician",
+        "perkColor":"purple",
+        "path": "iconPerks_technician"
+    },
+    {
+        "title":"unbreakable",
+        "perkColor":"purple",
+        "path": "iconPerks_unbreakable"
+    },
+    {
+        "title":"distortion",
+        "perkColor":"purple",
+        "path": "iconPerks_distortion"
+    },
+    {
+        "title":"alert",
+        "perkColor":"purple",
+        "path": "iconPerks_alert"
+    },
+    {
+        "title":"boilOver",
+        "perkColor":"purple",
+        "path": "iconPerks_boilOver"
+    },
+    {
+        "title":"wereGonnaLiveForever",
+        "perkColor":"purple",
+        "path": "iconPerks_WereGonnaLiveForever"
+    },
+    {
+        "title":"breakdown",
+        "perkColor":"purple",
+        "path": "iconPerks_breakdown"
+    },
+    {
+        "title":"leftBehind",
+        "perkColor":"purple",
+        "path": "iconPerks_leftBehind"
+    },
+    {
+        "title":"offTheRecord",
+        "perkColor":"purple",
+        "path": "iconPerks_offTheRecord"
+    },
+    {
+        "title":"redHerring",
+        "perkColor":"purple",
+        "path": "iconPerks_redHerring"
+    },
+    {
+        "title":"forThePeople",
+        "perkColor":"purple",
+        "path": "iconPerks_forThePeople"
+    },
+    {
+        "title":"soulGuard",
+        "perkColor":"purple",
+        "path": "iconPerks_soulGuard"
+    },
+    {
+        "title":"bloodPact",
+        "perkColor":"purple",
+        "path": "iconPerks_bloodPact"
+    },
+    {
+        "title":"repressedAlliance",
+        "perkColor":"purple",
+        "path": "iconPerks_repressedAlliance"
+    }
+]

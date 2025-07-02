@@ -1,0 +1,61 @@
+// Background Colors
+$Background_Default: #FFFFFF;
+$Background_Variant1: #ECEFF1;
+$Background_Variant2: #CFD8DC;
+$Background_Variant3: #E0E0E0;
+$Background_Variant4: #9E9E9E;
+$Background_Variant5: #757575;
+$Background_Variant6: #616161;
+$Background_Variant7: #212121;
+
+// Text Colors
+$Text_Default: #212121;
+$Text_Disabled: #424242;
+$Text_Disabled2: #757575;
+$Text_Disabled3: #BDBDBD;
+
+$Text_OnColor: #FAFAFA;
+$Text_OnColor_Variant1: #78909C;
+
+// Highlight Colors
+$Primary: #2196F3;
+$Primary_VariantDark: #1976D2;
+$Primary_VariantLight: #90CAF9;
+
+$Secondary: #66BB6A;
+$Secondary_VariantDark: #388E3C;
+$Secondary_VariantLight: #C8E6C9;
+
+$Error: #EF5350;
+$Error_VariantDark: #D32F2F;
+$Error_VariantLight: #FFCDD2;
+
+$Warning: #FFCA28;
+$Warning_VariantDark: #FFA000;
+$Warning_VariantLight: #FFECB3;
+
+$Purple: #AB47BC;
+$Purple_VariantDark: #7B1FA2;
+$Purple_VariantLight: #E1BEE7;
+
+$Pink: #EC407A;
+$Pink_VariantDark: #C2185B;
+$Pink_VariantLight: #F8BBD0;
+
+$Teal: #26A69A;
+$Teal_VariantDark: #00796B;
+$Teal_VariantLight: #B2DFDB;
+
+/* Screen Media Querys */
+$query_xs: 576px;
+$query_s: 768px;
+$query_m: 992px;
+$query_l: 1200px;
+
+/* font-sizes */
+$Font-Thin: 100;
+$Font-Light: 300;
+$Font-Regular: 400;
+$Font-Medium: 500;
+$Font-Bold: 700;
+$Font-Black: 900;

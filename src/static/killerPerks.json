@@ -1,0 +1,362 @@
+[
+    {
+        "title":"ironGrasp",
+        "perkColor":"purple",
+        "path": "iconPerks_ironGrasp"
+    },
+    {
+        "title":"thrillOfTheHunt",
+        "perkColor":"purple",
+        "path": "iconPerks_thrillOfTheHunt"
+    },
+    {
+        "title":"noOneEscapesDeath",
+        "perkColor":"purple",
+        "path": "iconPerks_noOneEscapesDeath"
+    },
+    {
+        "title":"whispers",
+        "perkColor":"purple",
+        "path": "iconPerks_whispers"
+    },
+    {
+        "title":"insidious",
+        "perkColor":"purple",
+        "path": "iconPerks_insidious"
+    },
+    {
+        "title":"monstrousShrine",
+        "perkColor":"purple",
+        "path": "iconPerks_monstrousShrine"
+    },
+    {
+        "title":"deerstalker",
+        "perkColor":"purple",
+        "path": "iconPerks_deerstalker"
+    },
+    {
+        "title":"sloppyButcher",
+        "perkColor":"purple",
+        "path": "iconPerks_sloppyButcher"
+    },
+    {
+        "title":"spiesFromTheShadows",
+        "perkColor":"purple",
+        "path": "iconPerks_spiesFromTheShadows"
+    },
+    {
+        "title":"unrelenting",
+        "perkColor":"purple",
+        "path": "iconPerks_unrelenting"
+    },
+    {
+        "title":"bitterMurmur",
+        "perkColor":"purple",
+        "path": "iconPerks_bitterMurmur"
+    },
+    {
+        "title":"distressing",
+        "perkColor":"purple",
+        "path": "iconPerks_distressing"
+    },
+    {
+        "title":"gearHead",
+        "perkColor":"purple",
+        "path": "iconPerks_gearHead"
+    },
+    {
+        "title":"BBQAndChili",
+        "perkColor":"purple",
+        "path": "iconPerks_BBQAndChili"
+    },
+    {
+        "title":"monitorAndAbuse",
+        "perkColor":"purple",
+        "path": "iconPerks_monitorAndAbuse"
+    },
+    {
+        "title":"enduring",
+        "perkColor":"purple",
+        "path": "iconPerks_enduring"
+    },
+    {
+        "title":"bloodEcho",
+        "perkColor":"purple",
+        "path": "iconPerks_bloodEcho"
+    },
+    {
+        "title":"bloodhound",
+        "perkColor":"purple",
+        "path": "iconPerks_bloodhound"
+    },
+    {
+        "title":"bloodWarden",
+        "perkColor":"purple",
+        "path": "iconPerks_bloodWarden"
+    },
+    {
+        "title":"brutalStrength",
+        "perkColor":"purple",
+        "path": "iconPerks_brutalStrength"
+    },
+    {
+        "title":"coulrophobia",
+        "perkColor":"purple",
+        "path": "iconPerks_coulrophobia"
+    },
+    {
+        "title":"saveTheBestForLast",
+        "perkColor":"purple",
+        "path": "iconPerks_saveTheBestForLast"
+    },
+    {
+        "title":"darkDevotion",
+        "perkColor":"purple",
+        "path": "iconPerks_darkDevotion"
+    },
+    {
+        "title":"nursesCalling",
+        "perkColor":"purple",
+        "path": "iconPerks_aNursesCalling"
+    },
+    {
+        "title":"thrillingTremors",
+        "perkColor":"purple",
+        "path": "iconPerks_thrillingTremors"
+    },
+    {
+        "title":"fireUp",
+        "perkColor":"purple",
+        "path": "iconPerks_fireUp"
+    },
+    {
+        "title":"ironMaiden",
+        "perkColor":"purple",
+        "path": "iconPerks_ironMaiden"
+    },
+    {
+        "title":"overwhelmingPresence",
+        "perkColor":"purple",
+        "path": "iconPerks_overwhelmingPresence"
+    },
+    {
+        "title":"dyingLight",
+        "perkColor":"purple",
+        "path": "iconPerks_dyingLight"
+    },
+    {
+        "title":"agitation",
+        "perkColor":"purple",
+        "path": "iconPerks_agitation"
+    },
+    {
+        "title":"devourHope",
+        "perkColor":"purple",
+        "path": "iconPerks_devourHope"
+    },
+    {
+        "title":"theThirdSeal",
+        "perkColor":"purple",
+        "path": "iconPerks_theThirdSeal"
+    },
+    {
+        "title":"hauntedGround",
+        "perkColor":"purple",
+        "path": "iconPerks_hauntedGround"
+    },
+    {
+        "title":"ruin",
+        "perkColor":"purple",
+        "path": "iconPerks_ruin"
+    },
+    {
+        "title":"hexRetribution",
+        "perkColor":"purple",
+        "path": "iconPerks_hexRetribution"
+    },
+    {
+        "title":"huntressLullaby",
+        "perkColor":"purple",
+        "path": "iconPerks_HuntressLullaby"
+    },
+    {
+        "title":"franklinsLoss",
+        "perkColor":"purple",
+        "path": "iconPerks_franklinsLoss"
+    },
+    {
+        "title":"territorialImperative",
+        "perkColor":"purple",
+        "path": "iconPerks_TerritorialImperative"
+    },
+    {
+        "title":"cruelConfinement",
+        "perkColor":"purple",
+        "path": "iconPerks_cruelConfinement"
+    },
+    {
+        "title":"hatred",
+        "perkColor":"purple",
+        "path": "iconPerks_hatred"
+    },
+    {
+        "title":"furtiveChase",
+        "perkColor":"purple",
+        "path": "iconPerks_furtiveChase"
+    },
+    {
+        "title":"hangmansTrick",
+        "perkColor":"purple",
+        "path": "iconPerks_hangmansTrick"
+    },
+    {
+        "title":"imAllEars",
+        "perkColor":"purple",
+        "path": "iconPerks_imAllEars"
+    },
+    {
+        "title":"infectiousFright",
+        "perkColor":"purple",
+        "path": "iconPerks_infectiousFright"
+    },
+    {
+        "title":"madGrit",
+        "perkColor":"purple",
+        "path": "iconPerks_madGrit"
+    },
+    {
+        "title":"knockOut",
+        "perkColor":"purple",
+        "path": "iconPerks_knockOut"
+    },
+    {
+        "title":"corruptIntervention",
+        "perkColor":"purple",
+        "path": "iconPerks_corruptIntervention"
+    },
+    {
+        "title":"lightborn",
+        "perkColor":"purple",
+        "path": "iconPerks_lightborn"
+    },
+    {
+        "title":"nemesis",
+        "perkColor":"purple",
+        "path": "iconPerks_nemesis"
+    },
+    {
+        "title":"popGoesTheWeasel",
+        "perkColor":"purple",
+        "path": "iconPerks_popGoesTheWeasel"
+    },
+    {
+        "title":"beastOfPrey",
+        "perkColor":"purple",
+        "path": "iconPerks_BeastOfPrey"
+    },
+    {
+        "title":"predator",
+        "perkColor":"purple",
+        "path": "iconPerks_predator"
+    },
+    {
+        "title":"shadowborn",
+        "perkColor":"purple",
+        "path": "iconPerks_shadowborn"
+    },
+    {
+        "title":"mindBreaker",
+        "perkColor":"purple",
+        "path": "iconPerks_mindBreaker"
+    },
+    {
+        "title":"surge",
+        "perkColor":"purple",
+        "path": "iconPerks_surge"
+    },
+    {
+        "title":"playWithYourFood",
+        "perkColor":"purple",
+        "path": "iconPerks_playWithYourFood"
+    },
+    {
+        "title":"stridor",
+        "perkColor":"purple",
+        "path": "iconPerks_stridor"
+    },
+    {
+        "title":"thatanophobia",
+        "perkColor":"purple",
+        "path": "iconPerks_thatanophobia"
+    },
+    {
+        "title":"deadManSwitch",
+        "perkColor":"purple",
+        "path": "iconPerks_deadManSwitch"
+    },
+    {
+        "title":"makeYourChoice",
+        "perkColor":"purple",
+        "path": "iconPerks_makeYourChoice"
+    },
+    {
+        "title":"tinkerer",
+        "perkColor":"purple",
+        "path": "iconPerks_tinkerer"
+    },
+    {
+        "title":"discordance",
+        "perkColor":"purple",
+        "path": "iconPerks_discordance"
+    },
+    {
+        "title":"generatorOvercharge",
+        "perkColor":"purple",
+        "path": "iconPerks_generatorOvercharge"
+    },
+    {
+        "title":"surveillance",
+        "perkColor":"purple",
+        "path": "iconPerks_surveillance"
+    },
+    {
+        "title":"bamboozle",
+        "perkColor":"purple",
+        "path": "iconPerks_bamboozle"
+    },
+    {
+        "title":"rememberMe",
+        "perkColor":"purple",
+        "path": "iconPerks_rememberMe"
+    },
+    {
+        "title":"zanshinTactics",
+        "perkColor":"purple",
+        "path": "iconPerks_zanshinTactics"
+    },
+    {
+        "title":"unnervingPresence",
+        "perkColor":"purple",
+        "path": "iconPerks_unnervingPresence"
+    },
+    {
+        "title":"spiritFury",
+        "perkColor":"purple",
+        "path": "iconPerks_spiritFury"
+    },
+    {
+        "title":"forcedPenance",
+        "perkColor":"purple",
+        "path": "iconPerks_forcedPenance"
+    },
+    {
+        "title":"trailOfTorment",
+        "perkColor":"purple",
+        "path": "iconPerks_trailOfTorment"
+    },
+    {
+        "title":"deathbound",
+        "perkColor":"purple",
+        "path": "iconPerks_deathbound"
+    }
+]

@@ -1,0 +1,44 @@
+.perk {
+    position: relative;
+
+    width: 200px;
+
+    margin-bottom: 25px;
+
+    display: flex;
+    flex-direction: column;
+
+    .perk-background {
+        height: 130px;
+        width: 130px;
+
+        margin-left: 35px;
+        
+        position: relative;
+    }
+
+    .perk-icon {
+        height: 130px;
+        width: 130px;
+
+        margin-left: 35px;
+
+        position: absolute;
+        left: 0;
+    }
+    
+    .perk-text {
+        margin-top: 10px;
+
+        box-sizing: border-box;
+        padding: 5px;
+
+        display: flex;
+        justify-content: center;
+
+        text-align: center;
+
+        background-color: black;
+        border: 1px solid $Text_Disabled;
+    }
+}

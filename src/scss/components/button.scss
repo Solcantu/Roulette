@@ -1,0 +1,143 @@
+.button-select {
+    height: 128px;
+    width: 128px;
+
+    cursor: pointer;
+}
+
+.button {
+    width: 269px;
+    height: 40px;
+
+    cursor: pointer;
+
+    margin-bottom: 10px;
+
+    border: 1px solid $Text_OnColor;
+
+    display: flex;
+    text-decoration: none;
+    color: $Text_OnColor;
+
+    .icon-frame {
+
+        .icon {
+            height: 50px;
+            width: 50px;
+
+            margin-top: -5px;
+            margin-left: -5px;
+        }
+
+    }
+
+    .text {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+    &:hover {
+        background-color: #770000;
+    }
+
+    &:active {
+        background-color: #a00000;
+    }
+}
+
+.language-button {
+    box-sizing: border-box;
+    padding: 5px;
+
+    font-size: small;
+    color: $Text_Disabled2;
+
+    width: fit-content;
+    border: 1px solid $Text_Disabled2;
+}
+
+.OBSLink {
+    margin-bottom: 10px;
+
+    display: flex;
+    justify-content: center;
+
+    font-size: medium;
+    
+    border-bottom: 1px solid $Text_Disabled2;
+}
+
+.button-left {
+
+    cursor: pointer;
+    text-decoration: none;
+    color: $Text_OnColor;
+
+    position: relative;
+    overflow: hidden;
+
+    height: 60px;
+    width: 269px;
+
+    .button-frame-left {
+        position: absolute;
+
+        height: 50px;
+        width: 269px;
+
+    }
+
+    .button-limiter-left {
+        position: absolute;
+
+        height: 30px;
+        width: 6px;
+
+        margin-left: 13px;
+        margin-top: 10px;
+
+    }
+
+    .button-blood-hover-left {
+        position: absolute;
+
+        margin-top: 5px;
+
+        height: 40px;
+        width: 269px;
+
+        // left: -250px;
+        display: none;
+    }
+
+    .button-blood-mark-left {
+        position: absolute;
+
+        margin-top: 6px;
+
+        height: 35px;
+        width: 35px;
+
+        display: none;
+    }
+
+    .button-left-text {
+        position: absolute;
+
+        margin-top: 15px;
+        margin-left: 30px;
+
+        font-size: 18px;
+    }
+
+    &:hover .button-blood-hover-left {
+        display: block;
+
+        // transition: 0.4s;
+        // left: 0;
+    }
+
+    &:hover .button-blood-mark-left {
+        display: block;
+    }
+}

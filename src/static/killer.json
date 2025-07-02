@@ -1,0 +1,202 @@
+[
+    {
+        "name": "trapper",
+        "img":"charIMG_trapper",
+        "portraitImg":"portrait_trapper",
+        "perks" : [
+            "unnervingPresence",
+            "brutalStrength",
+            "agitation"
+        ]
+    },
+    {
+        "name": "wraith",
+        "img":"charIMG_wraith",
+        "portraitImg":"portrait_wraith",
+        "perks" : [
+            "predator",
+            "bloodhound",
+            "shadowborn"
+        ]
+    },
+    {
+        "name": "hillbilly",
+        "img":"charIMG_hillbilly",
+        "portraitImg":"portrait_hillbilly",
+        "perks" : [
+            "enduring",
+            "lightborn",
+            "tinkerer"
+        ]
+    },
+    {
+        "name": "nurse",
+        "img":"charIMG_nurse",
+        "portraitImg":"portrait_nurse",
+        "perks" : [
+            "stridor",
+            "thatanophobia",
+            "nursesCalling"
+        ]
+    },
+    {
+        "name": "shape",
+        "img":"charIMG_shape",
+        "portraitImg":"portrait_shape",
+        "perks" : [
+            "saveTheBestForLast",
+            "playWithYourFood",
+            "dyingLight"
+        ]
+    },
+    {
+        "name": "hag",
+        "img":"charIMG_hag",
+        "portraitImg":"portrait_hag",
+        "perks" : [
+            "theThirdSeal",
+            "ruin",
+            "devourHope"
+        ]
+    },
+    {
+        "name": "doctor",
+        "img":"charIMG_doctor",
+        "portraitImg":"portrait_doctor",
+        "perks" : [
+            "overwhelmingPresence",
+            "monitorAndAbuse",
+            "generatorOvercharge"
+        ]
+    },
+    {
+        "name": "huntress",
+        "img":"charIMG_huntress",
+        "portraitImg":"portrait_huntress",
+        "perks" : [
+            "beastOfPrey",
+            "territorialImperative",
+            "huntressLullaby"
+        ]
+    },
+    {
+        "name": "cannibal",
+        "img":"charIMG_cannibal",
+        "portraitImg":"portrait_cannibal",
+        "perks" : [
+            "knockOut",
+            "BBQAndChili",
+            "franklinsLoss"
+        ]
+    },
+    {
+        "name": "nightmare",
+        "img":"charIMG_nightmare",
+        "portraitImg":"portrait_nightmare",
+        "perks" : [
+            "fireUp",
+            "rememberMe",
+            "bloodWarden"
+        ]
+    },
+    {
+        "name": "pig",
+        "img":"charIMG_pig",
+        "portraitImg":"portrait_pig",
+        "perks" : [
+            "hangmansTrick",
+            "surveillance",
+            "makeYourChoice"
+        ]
+    },
+    {
+        "name": "clown",
+        "img":"charIMG_clown",
+        "portraitImg":"portrait_clown",
+        "perks" : [
+            "bamboozle",
+            "coulrophobia",
+            "popGoesTheWeasel"
+        ]
+    },
+    {
+        "name": "spirit",
+        "img":"charIMG_spirit",
+        "portraitImg":"portrait_spirit",
+        "perks" : [
+            "spiritFury",
+            "hauntedGround",
+            "hatred"
+        ]
+    },
+    {
+        "name": "legion",
+        "img":"charIMG_legion",
+        "portraitImg":"portrait_legion",
+        "perks" : [
+            "discordance",
+            "madGrit",
+            "ironMaiden"
+        ]
+    },
+    {
+        "name": "plague",
+        "img":"charIMG_plague",
+        "portraitImg":"portrait_plague",
+        "perks" : [
+            "corruptIntervention",
+            "infectiousFright",
+            "darkDevotion"
+        ]
+    },
+    {
+        "name": "ghostface",
+        "img":"charIMG_ghostface",
+        "portraitImg":"portrait_ghostface",
+        "perks" : [
+            "imAllEars",
+            "thrillingTremors",
+            "furtiveChase"
+        ]
+    },
+    {
+        "name": "demogorgon",
+        "img":"charIMG_demogorgon",
+        "portraitImg":"portrait_demogorgon",
+        "perks" : [
+            "surge",
+            "cruelConfinement",
+            "mindBreaker"
+        ]
+    },
+    {
+        "name": "oni",
+        "img":"charIMG_oni",
+        "portraitImg":"portrait_oni",
+        "perks" : [
+            "zanshinTactics",
+            "bloodEcho",
+            "nemesis"
+        ]
+    },
+    {
+        "name": "deathslinger",
+        "img":"charIMG_deathslinger",
+        "portraitImg":"portrait_deathslinger",
+        "perks" : [
+            "gearHead",
+            "deadManSwitch",
+            "hexRetribution"
+        ]
+    },
+    {
+        "name": "executioner",
+        "img":"charIMG_executioner",
+        "portraitImg":"portrait_executioner",
+        "perks" : [
+            "forcedPenance",
+            "trailOfTorment",
+            "deathbound"
+        ]
+    }
+]

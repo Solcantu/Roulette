@@ -1,0 +1,48 @@
+
+.character {
+    position: relative;
+
+    width: 150px;
+
+    margin-bottom: 25px;
+
+    display: flex;
+    flex-direction: column;
+
+    .character-img {
+        height: 520px;
+        width: 250px;
+
+        left: 0;
+    }
+
+    .charPortrait {
+        height: 150px;
+        width: 150px;
+    }
+    
+    .character-text {
+        margin-top: 10px;
+
+        box-sizing: border-box;
+        padding: 5px;
+
+        display: flex;
+        justify-content: center;
+
+        text-align: center;
+
+        background-color: black;
+        border: 1px solid $Text_Disabled;
+    }
+}
+
+.disabled {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: gray;
+    -webkit-filter: grayscale(1);
+}

@@ -1,0 +1,70 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100%;
+}
+
+.navbar-container {
+    background-color: red;
+}
+
+.select-container {
+    display: flex;
+}
+
+.buttonContainer {
+    margin-top: 25px;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.perk-container {
+    width: 100%;
+    height: 245px;
+
+    margin-top: 25px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.perkList-container {
+    width: 100%;
+
+    margin-top: 25px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer-container {
+    width: 100%;
+    margin-right: 10px;
+
+    color: $Text_Disabled;
+    
+    text-align: end;
+
+    margin-bottom: 5px;
+}
+
+.languageButton-container {
+    width: 100%;
+
+    margin-top: 10px;
+    margin-right: 20px;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.perkSite-container, .optionsSite-container, .perkTableButton-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

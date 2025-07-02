@@ -1,0 +1,11 @@
+.backgroundIMG {
+    // width: 944px;
+    // height: 544px;
+
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    position: fixed;
+
+    z-index: -1;
+}

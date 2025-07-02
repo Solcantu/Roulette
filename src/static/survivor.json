@@ -1,0 +1,222 @@
+[
+    { 
+        "name": "dwight", 
+        "img":"charIMG_dwight",
+        "portraitImg":"portrait_dwight",
+        "perks" : [
+          "bond",
+          "proveThyself",
+          "leader"  
+        ]
+      },
+      {
+          "name": "meg",
+          "img":"charIMG_meg",
+          "portraitImg":"portrait_meg",
+          "perks" : [
+            "quickAndQuiet",
+            "sprintBurst",
+            "adrenaline"  
+          ]
+      },
+      {   
+          "name": "claudette",
+          "img":"charIMG_claudette",
+          "portraitImg":"portrait_claudette",
+          "perks":[
+            "empathy",
+            "botanyKnowledge",
+            "selfCare"  
+          ]
+      },
+      {
+          "name": "jake",
+          "img":"charIMG_jake",
+          "portraitImg":"portrait_jake",
+          "perks":[
+            "ironWill",
+            "calmSpirit",
+            "saboteur"  
+          ]
+      },
+      {
+          "name": "nea",
+          "img":"charIMG_nea",
+          "portraitImg":"portrait_nea",
+          "perks":[
+            "balancedLanding",
+            "urbanEvasion",
+            "streetwise"  
+          ]
+      },
+      {
+          "name": "laurie",
+          "img":"charIMG_laurie",
+          "portraitImg":"portrait_laurie",
+          "perks":[
+            "soleSurvivor",
+            "objectOfObsession",
+            "decisiveStrike"  
+          ]
+      },
+      {
+          "name": "ace",
+          "img":"charIMG_ace",
+          "portraitImg":"portrait_ace",
+          "perks":[
+            "openHanded",
+            "upTheAnte",
+            "aceInTheHole"  
+          ]
+      },
+      {
+          "name": "bill",
+          "img":"charIMG_bill",
+          "portraitImg":"portrait_bill",
+          "perks":[
+            "leftBehind",
+            "borrowedTime",
+            "unbreakable"  
+          ]
+      },
+      {
+          "name": "feng",
+          "img":"charIMG_feng",
+          "portraitImg":"portrait_feng",
+          "perks":[
+            "technician",
+            "lithe",
+            "alert"  
+          ]
+      },
+      {
+          "name": "david",
+          "img":"charIMG_david",
+          "portraitImg":"portrait_david",
+          "perks":[
+            "wereGonnaLiveForever",
+            "deadHard",
+            "noMither"  
+          ]
+      },
+      {
+          "name": "quentin",
+          "img":"charIMG_quentin",
+          "portraitImg":"portrait_quentin",
+          "perks":[
+            "wakeUp",
+            "pharmacy",
+            "vigil"  
+          ]
+      },
+      {
+          "name": "tapp",
+          "img":"charIMG_tapp",
+          "portraitImg":"portrait_tapp",
+          "perks":[
+            "tenacity",
+            "detectivesHunch",
+            "stakeOut"  
+          ]
+      },
+      {
+          "name": "kate",
+          "img":"charIMG_kate",
+          "portraitImg":"portrait_kate",
+          "perks":[
+            "danceWithMe",
+            "windowsOfOpportunity",
+            "boilOver"  
+          ]
+      },
+      {
+          "name": "adam",
+          "img":"charIMG_adam",
+          "portraitImg":"portrait_adam",
+          "perks":[
+            "diversion",
+            "deliverance",
+            "autodidact"  
+          ]
+      },
+      {
+          "name": "jeff",
+          "img":"charIMG_jeff",
+          "portraitImg":"portrait_jeff",
+          "perks":[
+            "breakdown",
+            "aftercare",
+            "distortion"  
+          ]
+      },
+      {
+          "name": "jane",
+          "img":"charIMG_jane",
+          "portraitImg":"portrait_jane",
+          "perks":[
+            "solidarity",
+            "poised",
+            "headOn"  
+          ]
+      },
+      {
+          "name": "ash",
+          "img":"charIMG_ash",
+          "portraitImg":"portrait_ash",
+          "perks":[
+            "flipFlop",
+            "buckleUp",
+            "mettleOfMan"  
+          ]
+      },
+      {
+          "name": "nancy",
+          "img":"charIMG_nancy",
+          "portraitImg":"portrait_nancy",
+          "perks":[
+            "betterTogether",
+            "fixated",
+            "innerStrength"  
+          ]
+      },
+      {
+          "name": "steve",
+          "img":"charIMG_steve",
+          "portraitImg":"portrait_steve",
+          "perks":[
+            "babySitter",
+            "camaraderie",
+            "secondWind"  
+          ]
+      },
+      {
+          "name": "yui",
+          "img":"charIMG_yui",
+          "portraitImg":"portrait_yui",
+          "perks":[
+            "luckyBreak",
+            "anyMeansNecessary",
+            "breakout"  
+          ]
+      },
+      {
+          "name": "zarina",
+          "img":"charIMG_zarina",
+          "portraitImg":"portrait_zarina",
+          "perks":[
+            "offTheRecord",
+            "redHerring",
+            "forThePeople"  
+          ]
+      },
+      {
+          "name": "cheryl",
+          "img":"charIMG_cheryl",
+          "portraitImg":"portrait_cheryl",
+          "perks":[
+            "soulGuard",
+            "bloodPact",
+            "repressedAlliance"  
+          ]
+      }
+]
